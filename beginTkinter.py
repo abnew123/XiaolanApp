@@ -1,0 +1,8 @@
+import base64, codecs
+magic = 'aW1wb3J0IHRraW50ZXIgYXMgdGsKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgYXMgZHQKd2luZG93ID0gdGsuVGsoKQp3aW5kb3cuZXZhbCgndGs6OlBsYWNlV2luZG93ICVzIGNlbnRlcicgJSB3aW5kb3cud2luZm9fcGF0aG5hbWUod2luZG93LndpbmZvX2lkKCkpKQoKCmRlZiBoYW5kbGVfYnV0dG9uX3ByZXNzKGV2ZW50KToKICAgIGRhdGUgPSBpbnQoZW50c'
+love = 'axhM2I0XPxcPvNtVPOcMvOxLKEyVQ09VQRlZQH0Zwp4ZwVkBtbtVPNtVPNtVTkuLzIfZyfvqTI4qPWqVQ0tVaAbo3W0qKWfYzS0Y3uOER5nVtbtVPNtMJkmMGbXVPNtVPNtVPOxLKxtCFOxqPuxLKEyVPHtZGNjZQNfXTEuqTHiYmRjZQNjZQNcVPHtZGNjYPNbMTS0MF8iZGNjZQNcVPHtZGNjXDbtVPNtVPNtVTkuLzIfZyfvqTI4qPWqVQ0tMTS5p1gxLKxhq2Iyn2EurFtcKD'
+god = 'ogICAgICAgIGVudHJ5LmRlbGV0ZSgwLCB0ay5FTkQpCgoKbGFiZWwxID0gdGsuTGFiZWwodGV4dCA9ICJXcml0ZSBkYXRlIGluIG1tZGR5eXl5IG9yZGVyIikKZW50cnkgPSB0ay5FbnRyeSgpCmRheXM9WyJNb25kYXkiLCJUdWVzZGF5IiwiV2VkbmVzZGF5IiwiVGh1cnNkYXkiLCJGcmlkYXkiLCJTYXR1cmRheSIsIlN1bmRheSJdCgoKYnV0dG9uID0gdGsuQnV0dG9uKHR'
+destiny = 'yrUD9VyA1Lz1cqPVcPzW1qUEiov5vnJ5xXPV8DaI0qT9hYGR+VvjtnTShMTkyK2W1qUEioy9jpzImplxXPzkuLzIfZvN9VUEeYxkuLzIfXUEyrUDtCFNvETS5VT9zVSqyMJf6VPVcPzkuLzIfZF5jLJAeXPxXMJ50paxhpTSwnltcPzW1qUEiov5jLJAeXPxXoTSvMJjlYaOuL2fbXDc3nJ5xo3phLzyhMPubLJ5xoTIsLaI0qT9hK3OlMKAmXDc3nJ5xo3phoJScozkio3NbXDb='
+joy = '\x72\x6f\x74\x31\x33'
+trust = eval('\x6d\x61\x67\x69\x63') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x6c\x6f\x76\x65\x2c\x20\x6a\x6f\x79\x29') + eval('\x67\x6f\x64') + eval('\x63\x6f\x64\x65\x63\x73\x2e\x64\x65\x63\x6f\x64\x65\x28\x64\x65\x73\x74\x69\x6e\x79\x2c\x20\x6a\x6f\x79\x29')
+eval(compile(base64.b64decode(eval('\x74\x72\x75\x73\x74')),'<string>','exec'))
